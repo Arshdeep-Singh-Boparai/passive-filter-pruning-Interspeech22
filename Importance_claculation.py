@@ -2,6 +2,8 @@
 # Input:  A set of filters or trained model.
 # Output: Important filters. (imp_list)
 
+import numpy as np
+from scipy.spatial import distance
 
 # load baseline model.
 
