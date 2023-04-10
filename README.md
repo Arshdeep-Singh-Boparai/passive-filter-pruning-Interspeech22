@@ -32,7 +32,7 @@ keras, tensorflow, h5py, sklearn, scipy.
 # Data downloading link
 Download the training, validation dataset (numpy files) and the pre-trained model or weights from the following link:
 
-https://drive.google.com/drive/folders/1qE8La-LgP7GL1wCzPuucHeugkLWHU26a?usp=sharing
+https://doi.org/10.5281/zenodo.7119930
 
 The numpy dataset files are the audio features (Log mel-band energies (40 bands) and 500 time frames) as used by the DCASE 2021 task 1a baseline model. 
 
